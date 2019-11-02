@@ -28,6 +28,9 @@ layout: archive
   </section>
 {% endfor %}
 
+{% if site.disqus.shortname %}
+  {% include disqus_comments.html %}
+{% endif %}
 
-<div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-numposts="5"></div>
+
 
