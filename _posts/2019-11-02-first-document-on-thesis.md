@@ -1,11 +1,11 @@
 ---
-title: "This is my first post."
+title: "How to write a blog?"
 date: 2019-11-02
-tags: [thesis, sensor fusion, VIO]
+tags: [format]
 category: research
 header:
     image: "/images/there_will.jpeg"
-excerpt: "Thesis, VIO"
+excerpt: "Format"
 mathjax: "true"
 ---
 
