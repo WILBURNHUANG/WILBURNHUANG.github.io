@@ -2,8 +2,8 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Thesis"
-    url: /thesis/
+  - title: "Research Blog"
+    url: /blog/
   - title: "Movie Review"
     url: /movie_review/
   # - title: "About"

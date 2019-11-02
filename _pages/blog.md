@@ -1,7 +1,7 @@
 ---
 layout: category
 taxonomy: research
-permalink: /thesis/
+permalink: /blog/
 title: "Thesis progess Posts."
 author_profile: true
 header: 
