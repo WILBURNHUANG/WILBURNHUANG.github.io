@@ -1,5 +1,5 @@
 ---
-title: "A magnificent talk with death and soul."
+title: "A magnificent talk with death and soul. [All That Jazz]"
 date: 2019-11-02
 tags: [mental thriller, dance movie]
 category: review

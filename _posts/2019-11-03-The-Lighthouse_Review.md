@@ -1,5 +1,5 @@
 ---
-title: "Fart jokes can also be classy."
+title: "Fart jokes can also be classy. [The Lighthouse]"
 date: 2019-11-02
 tags: [mental thriller, black and white]
 category: review
