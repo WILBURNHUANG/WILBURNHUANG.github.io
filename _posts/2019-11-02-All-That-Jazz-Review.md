@@ -22,6 +22,8 @@ First, by adding a flirting and poetic conversation with the death goddess playe
 
 What’s more about this film is, of course, the amazing stage performances. Besides the movies’ glittery finale, there's also one erotic and sexual inclusive stage show which seems to be bold at that time.
 
+<img src="{{ site.url }}{{ site.baseurl }}/images/review/all_that_jazz.jpg" alt="linearly separable data">
+
 After watching this movie, there’re people saying it feels like Fellini's 8 ½. It’s true. The dream-like experience, the surrealistic dancing scenes, all feel familiar. However, from my personal perspective, it also feels like Requiem for a Dream to me (Or the opposite?). The anger, helplessness, and loneliness in his soul undoubtedly added a lot of weight of realism to this film. The final tragic scene also undoubtedly enhances the contrast of reality, which leaves the whole story resonates with you.
 
 Does being great also means to be lonely and paranoid and self-centered? Bob Fosse presented his own answer to the world. 
