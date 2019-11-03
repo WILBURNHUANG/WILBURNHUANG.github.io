@@ -18,6 +18,6 @@ Based on some folk anecdotes from the New England region, the story itself is no
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/review/lighthouse_2.jpg" alt="linearly separable data">
 
-As for acting, the chemicals between Robert Pattinson and Willem Dafoe just blew my mind away. Who would have thought these two guys can be such a great duo?
+As for acting, the chemistry between Robert Pattinson and Willem Dafoe just blew my mind away. Who would have thought these two guys can be such a great duo?
 
 Overall, I thoroughly enjoyed this movie.
